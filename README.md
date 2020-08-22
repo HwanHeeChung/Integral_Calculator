@@ -5,4 +5,5 @@
   <p> intervalo= (límite superior-límite inferior) / número de rectángulos
   <p> return sigma (de i(entero) en i) desde 0 hasta n (f(a+i*intervalo)*intervalo)
 <p><b>Excepciones</b>
- <p> Integrales divergentes <br> ... Es el único que se me ocurre por el momento.
+ <p> Integrales divergentes <br> ... Es el único que se me ocurre por el momento. 
+ <p> Lo interesante será que el programa, dependiendo de la función, averigue si es integrable de manera numérica
